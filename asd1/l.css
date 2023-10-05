@@ -68,7 +68,10 @@ body{
 .logoq>img{
 	width: 100%;
 }
-.container{
+/*.container{
+	padding-left: 60px;
+}*/
+.header{
 	padding-left: 60px;
 }
 .three-card{
